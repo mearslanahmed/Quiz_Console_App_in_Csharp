@@ -1,0 +1,112 @@
+[
+	{
+		"Question": "What does CPU stand for?",
+		"Answers": [
+			"Central Processing Unit",
+			"Computer Personal Unit",
+			"Central Process Utility",
+			"Control Processing Unit"
+		],
+		"CorrectAnswer": 1,
+		"Points": 1
+	},
+	{
+		"Question": "What is the smallest unit of data in a computer?",
+		"Answers": [
+			"Bit",
+			"Byte",
+			"Kilobyte",
+			"Megabyte"
+		],
+		"CorrectAnswer": 1,
+		"Points": 1
+	},
+	{
+		"Question": "Which programming language is known as the language of the web?",
+		"Answers": [
+			"Python",
+			"C#",
+			"JavaScript",
+			"Java"
+		],
+		"CorrectAnswer": 3,
+		"Points": 1
+	},
+	{
+		"Question": "What does 'RAM' stand for in computer terminology?",
+		"Answers": [
+			"Random Access Memory",
+			"Read Access Memory",
+			"Rapid Access Memory",
+			"Run Access Memory"
+		],
+		"CorrectAnswer": 1,
+		"Points": 1
+	},
+	{
+		"Question": "Which company developed the Windows operating system?",
+		"Answers": [
+			"Apple",
+			"IBM",
+			"Microsoft",
+			"Google"
+		],
+		"CorrectAnswer": 3,
+		"Points": 1
+	},
+	{
+		"Question": "What is the full form of 'URL'?",
+		"Answers": [
+			"Uniform Resource Locator",
+			"Unified Resource Locator",
+			"Universal Resource Locator",
+			"Unique Resource Locator"
+		],
+		"CorrectAnswer": 1,
+		"Points": 1
+	},
+	{
+		"Question": "Which computer network is known as the 'Network of Networks'?",
+		"Answers": [
+			"LAN",
+			"WAN",
+			"Intranet",
+			"Internet"
+		],
+		"CorrectAnswer": 4,
+		"Points": 1
+	},
+	{
+		"Question": "Which part of a computer is responsible for executing instructions of programs?",
+		"Answers": [
+			"Hard Disk",
+			"CPU",
+			"RAM",
+			"Motherboard"
+		],
+		"CorrectAnswer": 2,
+		"Points": 1
+	},
+	{
+		"Question": "Who is known as the father of computers?",
+		"Answers": [
+			"Alan Turing",
+			"Charles Babbage",
+			"John von Neumann",
+			"Ada Lovelace"
+		],
+		"CorrectAnswer": 2,
+		"Points": 1
+	},
+	{
+		"Question": "What does 'HTTP' stand for?",
+		"Answers": [
+			"HyperText Transfer Protocol",
+			"HyperText Transmission Protocol",
+			"HyperTransfer Text Protocol",
+			"HyperText Transport Process"
+		],
+		"CorrectAnswer": 1,
+		"Points": 1
+	}
+]

@@ -1,0 +1,15 @@
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\bin\Debug\net9.0\CSQuiz.exe
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\bin\Debug\net9.0\CSQuiz.deps.json
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\bin\Debug\net9.0\CSQuiz.runtimeconfig.json
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\bin\Debug\net9.0\CSQuiz.dll
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\bin\Debug\net9.0\CSQuiz.pdb
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\CSQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\CSQuiz.AssemblyInfoInputs.cache
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\CSQuiz.AssemblyInfo.cs
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\CSQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\CSQuiz.dll
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\refint\CSQuiz.dll
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\CSQuiz.pdb
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\CSQuiz.genruntimeconfig.cache
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\obj\Debug\net9.0\ref\CSQuiz.dll
+C:\Users\Arslan Ahmed\Downloads\CSQuiz\bin\Debug\net9.0\questions.json
